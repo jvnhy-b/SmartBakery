@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secretos locales
+.streamlit/secrets.toml
+.env
+
+# Dataset (se descarga de Kaggle, ver README)
+data/
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

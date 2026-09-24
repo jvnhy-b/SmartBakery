@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 58" width="236" height="58" role="img" aria-label="SmartBakery, Sales Intelligence">
+  <g fill="none" stroke="#245BDB" stroke-width="3.2" stroke-linecap="round">
+    <path d="M7 46 L7 24 A17 17 0 0 1 41 24 L41 46" />
+  </g>
+  <g fill="#245BDB">
+    <rect x="13.5" y="37" width="5.5" height="9" rx="2" opacity="0.55" />
+    <rect x="21.5" y="31" width="5.5" height="15" rx="2" opacity="0.78" />
+    <rect x="29.5" y="25" width="5.5" height="21" rx="2" />
+  </g>
+  <text x="58" y="32"
+        font-family="'Space Grotesk', 'Segoe UI', system-ui, Arial, sans-serif"
+        font-size="23" font-weight="600" fill="#172033" letter-spacing="-0.5">SmartBakery</text>
+  <text x="59" y="47"
+        font-family="'Segoe UI', system-ui, Arial, sans-serif"
+        font-size="9" font-weight="600" fill="#64748B" letter-spacing="1.7">SALES INTELLIGENCE</text>
+</svg>

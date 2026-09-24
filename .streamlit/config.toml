@@ -1,0 +1,61 @@
+[theme]
+base = "light"
+
+primaryColor = "#245BDB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FB"
+textColor = "#172033"
+linkColor = "#1F4FC3"
+borderColor = "#DCE3EE"
+codeBackgroundColor = "#F4F7FB"
+codeTextColor = "#334155"
+dataframeBorderColor = "#DCE3EE"
+dataframeHeaderBackgroundColor = "#EEF3F9"
+
+baseRadius = "10px"
+buttonRadius = "8px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+font = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+headingFont = "Space Grotesk"
+baseFontSize = 14
+baseFontWeight = 400
+headingFontSizes = ["30px", "21px", "17px", "15px", "14px", "13px"]
+headingFontWeights = [600, 600, 600, 550, 550, 550]
+linkUnderline = false
+
+chartCategoricalColors = [
+    "#245BDB",
+    "#294A73",
+    "#5B8DEF",
+    "#7367A8",
+    "#B66A50",
+    "#C28A32",
+    "#64748B",
+]
+chartSequentialColors = [
+    "#F2F6FF",
+    "#DDE8FF",
+    "#C2D5FF",
+    "#9DBBFA",
+    "#739CF1",
+    "#527FE6",
+    "#3667DA",
+    "#2451BE",
+    "#1C4097",
+    "#162F70",
+]
+
+greenColor = "#245BDB"
+redColor = "#B42335"
+orangeColor = "#B86B2B"
+grayColor = "#64748B"
+
+[theme.sidebar]
+backgroundColor = "#F7F9FC"
+secondaryBackgroundColor = "#EDF2FA"
+codeBackgroundColor = "#EDF2FA"
+borderColor = "#DCE3EE"
+textColor = "#25324A"
+primaryColor = "#245BDB"
