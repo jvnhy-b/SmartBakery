@@ -118,8 +118,7 @@ password = "tu-clave"
 ```
 
 Deja `AWS_API_URL` vacío si no tienes un endpoint de IA: el resto de la
-aplicación funciona igual. `.streamlit/secrets.toml` está en `.gitignore` y
-nunca debe subirse al repositorio.
+aplicación funciona igual.
 
 ### 6. Ejecutar
 
